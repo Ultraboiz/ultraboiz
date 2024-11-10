@@ -1,0 +1,7 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+15:55:26	78/78	---MCZ	200	added ('OK')	text/plain	etag:W/%22fa1ded1ed7c11438a9b0385b1e112850%22	https://locket.manhit.dev/robots.txt		(from )
+15:55:26	663/663	---MCZ	200	added ('OK')	text/html	date:Wed,%2016%20Oct%202024%2006:47:16%20GMT	https://locket.manhit.dev/	D:/Locket%20Clone/locket.manhit.dev/index.html	(from )
+15:55:27	85542/85542	---M--	200	added ('OK')	image/png	etag:%22a855965d397178967871544a28d3c431%22	https://locket.manhit.dev/locket-icon.png	D:/Locket%20Clone/locket.manhit.dev/locket-icon.png	(from https://locket.manhit.dev/)
+15:55:27	472/472	---MCZ	200	added ('OK')	application/json	etag:W/%2267a723eccfa67e42bcf0167a513ccede%22	https://locket.manhit.dev/manifest.json	D:/Locket%20Clone/locket.manhit.dev/manifest.json	(from https://locket.manhit.dev/)
+15:55:27	360887/360887	---MCZ	200	added ('OK')	application/javascript	etag:W/%22ae77f34dc7ad8c7dc46c722970cdaaf2%22	https://locket.manhit.dev/static/js/main.cb336bb0.js	D:/Locket%20Clone/locket.manhit.dev/static/js/main.cb336bb0.js	(from https://locket.manhit.dev/)
+15:55:27	257233/257233	---MCZ	200	added ('OK')	text/css	etag:W/%227afd0f2cc5b62897bdf60bebc3d72ad0%22	https://locket.manhit.dev/static/css/main.b8e26340.css	D:/Locket%20Clone/locket.manhit.dev/static/css/main.b8e26340.css	(from https://locket.manhit.dev/)
